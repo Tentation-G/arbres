@@ -1,0 +1,6 @@
+services:
+  mongo:
+    image: mongo:latest
+    container_name: 3IABD1_TP1
+    ports:
+      - "27018:27017"
