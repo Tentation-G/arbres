@@ -1,6 +1,6 @@
 services:
   mongo:
     image: mongo:latest
-    container_name: 3IABD1_TP1
+    container_name: 3IABD1_NoSQL_TP_Python_Arbre
     ports:
-      - "27018:27017"
+      - "27019:27017"
